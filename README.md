@@ -1,4 +1,7 @@
-
+## Link do notebook LM ##
+----------------------------------------------------------------------------
+https://notebooklm.google.com/notebook/2f3612a7-d89d-4aa8-834f-ee365615c734
+----------------------------------------------------------------------------
 # TÉCNICAS DE PROMPT-ENGENHARIA DE PROMPTS NA PRÁTICA
 
 ## introdução:
