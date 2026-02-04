@@ -25,7 +25,7 @@ https://www.gov.br/investidor/pt-br/educacional/programa-bem-estar-financeiro/pr
 
 ----------------------------------------------------------------------
 ## Sugestões:
-- Acesse a aba de "deepsearch" para que o assistente faça pesquisas na web em busca de mais fontes de estudo relevantes para o prompt em questão e baseadas nas fontes indicadas anteriormente
+- Acesse a aba de "deepreasearch" para que o assistente faça pesquisas na web em busca de mais fontes de estudo relevantes para o prompt em questão e baseadas nas fontes indicadas anteriormente
 - Use a aba de estúdio para Criação de vídeos, slides, mapas mentais relacionados ao assunto
 ### Prompts  sugeridos para serem usados no chat
 
@@ -33,7 +33,7 @@ https://www.gov.br/investidor/pt-br/educacional/programa-bem-estar-financeiro/pr
 - "Crie uma tabela comparativa para os tipos de investidores. Liste vantagens e desvantagens,bem como os principais investimentos relacionados aos tipos de investidores"
 - "Crie um questionário para identificar o tipo de investidor no qual mais me encaixo. leve em consideração os conhecimentos introdutórios, tipos de investimentos e características de investidores"
 - Qual a melhor abordagem para um investidor novato brasileiro?
-Obs: É ideal o uso do deepsearch para que as respostas apresentadas sejam cada vez mais atualizadas
+Obs: É ideal o uso do deepreasearch para que as respostas apresentadas sejam cada vez mais atualizadas
 
 ----------------------------------------------------------------------
 ## Conclusão:
